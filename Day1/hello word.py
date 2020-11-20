@@ -7,12 +7,20 @@
 
 
 #学习Python的第一句代码，打印hello Word
-print('hello word')
+# print('hello word')
 
 
 #变量学习
-a = 123
-b = 234
-print(a)
-print(b)
-print(a+b)
+# a = 123
+# b = 234
+# print(a)
+# print(b)
+# print(a+b)
+
+#rang,len函数
+for i in range(5):
+    print(i)
+
+a = ['a','b','c']
+for i in range(len(a)):
+    print(i,a[i])
