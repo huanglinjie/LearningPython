@@ -6,5 +6,13 @@
 # @Software: PyCharm
 
 
-
+#学习Python的第一句代码，打印hello Word
 print('hello word')
+
+
+#变量学习
+a = 123
+b = 234
+print(a)
+print(b)
+print(a+b)
