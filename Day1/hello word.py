@@ -18,7 +18,12 @@
 # print(b)
 # print(a+b)
 
-a = 1
-b = 2
+# a = 1
+# b = 2
+#
+# print(a+b)
+#数据类型的概念
+#在python里数据都有对应的类型：
 
-print(a+b)
+print(45) #int整数类型
+print(3.15456456) #float类型
