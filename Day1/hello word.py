@@ -11,16 +11,14 @@
 
 
 #变量学习
+#a称之为变量，使用一个名字，代替一段内容
 # a = 123
 # b = 234
 # print(a)
 # print(b)
 # print(a+b)
 
-#rang,len函数
-for i in range(5):
-    print(i)
+a = 1
+b = 2
 
-a = ['a','b','c']
-for i in range(len(a)):
-    print(i,a[i])
+print(a+b)
